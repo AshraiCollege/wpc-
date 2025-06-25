@@ -1,5 +1,5 @@
 import java.io.*;
-class x{
+class FileIOExample{
 public static void main(String args[]){
 try{
 FileWriter f=new FileWriter("abc.txt");
